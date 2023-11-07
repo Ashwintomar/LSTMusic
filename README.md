@@ -2,7 +2,6 @@
 <html>
 
 <head>
-    <title>Music Generation using LSTM</title>
     <link rel="stylesheet" href="https://img.shields.io/badge/license-MIT-blue.svg">
 </head>
 
